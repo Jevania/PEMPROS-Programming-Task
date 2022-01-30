@@ -1,0 +1,6 @@
+mencoba
+mencoba menyelesaikan
+mencoba menyelesaikan
+mencoba menyelesaikan
+mencoba menyelesaikan
+print "Hello, world!" di t08_01

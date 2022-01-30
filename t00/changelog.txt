@@ -1,0 +1,2 @@
+mengedit berkas t00_01.c sesuai petunjuk
+menyelesaikan berkas t00_02 

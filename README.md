@@ -1,4 +1,5 @@
 # [PEMPROS]-Programming-Task
+Procedural programming is a course that Information Systems students study in the second semester using the `C programming language`. This course introduces programming concepts for beginners by solving cases through writing code in the form of a series of sequential commands to build, practice and hone our programming logic.
 
 ## `Weekly Programming Task📅`
 1. [T00 | Environment Setup](https://github.com/Jevania/PEMPROS-Weekly-Programming-Task/tree/main/t00)
